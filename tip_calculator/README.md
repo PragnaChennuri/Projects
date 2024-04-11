@@ -1,7 +1,5 @@
 # **README.md File**<br>
-A simple python program that calculates the tip based on the responses given by the user<br>
-The program takes in the following parameters: total bill, tip, and number of ways to split<br>
-it will final output the total amount each person has to pay including the tip<br>
+A simple python program that calculates the tip based on the responses given by the user. The program takes in the following parameters: total bill, tip, and number of ways to split. It will final output the total amount each person has to pay including the tip<br>
 
 **Note:** Please Don't Copy My Code. Feel free to use it as a reference.<br>
 
