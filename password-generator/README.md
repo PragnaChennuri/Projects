@@ -1,5 +1,5 @@
 # **README.md File**<br>
-Create a password generator that allows users to customize the length and composition of their passwords. Users can choose the number of letters, symbols, and numbers in their password and opt to randomize the order of characters.<br>
+A password generator that allows users to customize the length and composition of their passwords. Users can choose the number of letters, symbols, and numbers in their password and opt to randomize the order of characters.<br>
 
 Random Module Methods:
 - The password generator employs various methods from the random module:
