@@ -11,3 +11,5 @@ Feel free to explore the projects listed below:
 - **Project 3: Rock Paper Scissor Game (Python)** - A classic game of rock, paper, scissors. Users input their choice (rock, paper, or scissors), and the computer randomly selects one as well. The winner is then determined based on the comparison of the user's choice and the computer's choice.
 
 - **Project 4: Password Generator (Python)** - A password generator that allows users to customize the length and composition of their passwords. Users can choose the number of letters, symbols, and numbers in their password and opt to randomize the order of characters.
+
+- **Project 5: Hangman (Python)** - This Hangman game challenges the user to guess a word by making guesses within a limited number of attempts. If the user fails to guess the word within the allotted guesses, they lose. However, if they successfully guess the word, they win. 
