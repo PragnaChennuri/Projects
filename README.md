@@ -13,3 +13,5 @@ Feel free to explore the projects listed below:
 - **Project 4: Password Generator (Python)** - A password generator that allows users to customize the length and composition of their passwords. Users can choose the number of letters, symbols, and numbers in their password and opt to randomize the order of characters.
 
 - **Project 5: Hangman (Python)** - This Hangman game challenges the user to guess a word by making guesses within a limited number of attempts. If the user fails to guess the word within the allotted guesses, they lose. However, if they successfully guess the word, they win. 
+
+- **Project 5: HTTP Server (C)** - A minimalistic http server that makes which consists of basic requirements such as socket programming, and request handling.
